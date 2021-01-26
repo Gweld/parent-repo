@@ -1,3 +1,6 @@
 [submodule "includes/submodule-repo2"]
 	path = includes/submodule-repo2
 	url = ./submodule-repo2.git
+[submodule "submodule-repo"]
+	path = submodule-repo
+	url = https://github.com/Gweld/submodule-repo.git
